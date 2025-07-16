@@ -41,8 +41,8 @@ Open the .ino file in the Arduino IDE.
 📊 Proper modular structure, code comments, and best practices followed.
 
 #📸 Screenshots Image
+<img width="800" height="450" alt="Image" src="https://github.com/user-attachments/assets/4911108e-0056-45c2-8390-3944497ede8b" />
 
-Image
 #🧑‍💻 Author Harsh Parashar IoT Enthusiast | CodTech Intern 📧 harshparashar639@gmail.com
 
 #⭐ GitHub Tip If you found this helpful, consider starring ⭐ this repo!
